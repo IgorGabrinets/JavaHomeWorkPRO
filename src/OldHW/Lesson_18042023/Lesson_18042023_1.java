@@ -1,4 +1,4 @@
-package OldHW;
+package OldHW.Lesson_18042023;
 
 import java.util.function.Function;
 
